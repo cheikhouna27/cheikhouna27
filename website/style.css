@@ -1,0 +1,28 @@
+/*selector { 
+property: value; }*/
+
+
+h1 {color: darkgrey; text-align: center; border: 5px solid;}
+h1 {color: beige;}
+hr{border color: black;}
+p {color: white; text-align: center; border: 2px solid;}
+h3 {color: grey;}
+p {color: white;}
+p {font-style: italic;}
+p {font-weight: bold;}
+p {text-transform: uppercase;}
+p {font-size: 150%;}
+a {color: white;}
+img:hover {transform: scale(1.1);}
+img{
+	width:950px; 
+	height: 950px;
+margin: 0px
+transition: all 2s;}
+body {
+	color: floralwhite;
+	background-image: url(back.jpg.webp);
+	background-size: cover;
+div {transition:animation-duration: 3s;
+}
+	
